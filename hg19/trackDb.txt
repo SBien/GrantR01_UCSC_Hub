@@ -2,7 +2,7 @@
 track Overlay_Enhancer_H3K27ac
 type bigWig
 container multiWig
-shortLabel Enhancer Layered
+shortLabel Enhancer_Normal
 longLabel This overlay track graphs signal from 6 H3K27ac bigWig for normal tissues and cell types from Roadmap
 visibility full
 aggregate transparentOverlay
@@ -108,7 +108,7 @@ color 178,255,255
 track Overlay_Accessibl_Dhs
 type bigWig
 container multiWig
-shortLabel DHS Layered
+shortLabel DNAaccess Normal
 longLabel This overlay track graphs signal from 6 Dhs bigWig for normal cell-types and tissues from Roadmap
 visibility full
 aggregate transparentOverlay
@@ -161,7 +161,7 @@ color 178,255,255
 track Overlay_DNAMethyl
 type bigWig
 container multiWig
-shortLabel Methyl Layered
+shortLabel Methyl Normal
 longLabel This overlay track graphs Fractional Methylation signal from 6 bigWig for normal cell-types and tissues from Roadmap
 visibility full
 aggregate transparentOverlay
@@ -215,7 +215,7 @@ color 178,255,255
 track Overlay_C_Enhancer_H3K27ac
 type bigWig
 container multiWig
-shortLabel Enh Layer Cancer
+shortLabel Enhancer Cancer
 longLabel This overlay track graphs signal from 3 H3K27ac bigWig for cancer cell types
 visibility full
 aggregate transparentOverlay
@@ -254,7 +254,7 @@ color 255,192,203
 track Overlay_C_Promoter_H3K4me3
 type bigWig
 container multiWig
-shortLabel Prom Layer Cancer
+shortLabel Promoter Cancer
 longLabel This overlay track graphs signal from 4 H3K4me3 bigWig for cancer cell types
 visibility full
 aggregate transparentOverlay
@@ -299,7 +299,7 @@ color 255,192,203
 track Overlay_C_Accessibl_Dhs
 type bigWig
 container multiWig
-shortLabel DHS Layered
+shortLabel DNAaccess Cancer
 longLabel This overlay track graphs signal from 6 Dhs bigWig for normal cell-types and tissues from Roadmap
 visibility full
 aggregate transparentOverlay
@@ -355,6 +355,4 @@ longLabel Lncap_Dhs
 parent Overlay_C_Accessibl_Dhs
 type bigWig
 color 135,206,235
-
-
 
