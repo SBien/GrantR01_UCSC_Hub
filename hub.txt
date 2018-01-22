@@ -1,0 +1,5 @@
+hub Grant_epigenomes
+shortLabel Grant_epigenomes
+longLabel Grant_epigenomes
+genomesFile genomes.txt
+email stephannbien@gmail.com
