@@ -17,7 +17,7 @@ shortLabel Colon_Mucosa_H3K27ac
 longLabel Colon_Mucosa_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 155,195,211
+color 56,56,255
 
 track E119_Mammary_Epithelial_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E119-H3K27ac.imputed.pval.signal.bigwig
@@ -25,7 +25,7 @@ shortLabel Breast_H3K27ac
 longLabel Breast_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 195,211,155
+color 92,50,69
 
 track E127_Epidermal_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E127-H3K27ac.imputed.pval.signal.bigwig
@@ -33,7 +33,7 @@ shortLabel Skin_H3K27ac
 longLabel Skin_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 250,225,149
+color 102,102,102
 
 track E096_Lung_Epithelial_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E096-H3K27ac.imputed.pval.signal.bigwig
@@ -41,15 +41,7 @@ shortLabel Lung_H3K27ac
 longLabel Lung_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 200,219,222
-
-track E066_Liver_H3K27ac
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E066-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Liver_H3K27ac
-longLabel Liver_H3K27ac
-parent Overlay_Enhancer_H3K27ac
-type bigWig
-color 226,219,190
+color 83,83,83
 
 track E097_Ovary_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E097-H3K27ac.imputed.pval.signal.bigwig
@@ -57,7 +49,7 @@ shortLabel Ovary_H3K27ac
 longLabel Ovary_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 234,208,213
+color 0,71,75
 
 ################################################
 track Overlay_Promoter_H3K4me3
@@ -78,7 +70,7 @@ shortLabel Colon_Mucosa_H3K4me3
 longLabel Colon_Mucosa_H3K4me3
 parent Overlay_Promoter_H3K4me3
 type bigWig
-color 155,195,211
+color 56,56,255
 
 track E119_Mammary_Epithelial_H3K4me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me3/E119-H3K4me3.imputed.pval.signal.bigwig
@@ -86,7 +78,7 @@ shortLabel Breast_H3K4me3
 longLabel Breast_H3K4me3
 parent Overlay_Promoter_H3K4me3
 type bigWig
-color 195,211,155
+color 92,50,69
 
 track E127_Epidermal_H3K4me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me3/E127-H3K4me3.imputed.pval.signal.bigwig
@@ -94,7 +86,7 @@ shortLabel Skin_H3K4me3
 longLabel Skin_H3K4me3
 parent Overlay_Promoter_H3K4me3
 type bigWig
-color 250,225,149
+color 102,102,102
 
 track E096_Lung_Epithelial_H3K4me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me3/E096-H3K4me3.imputed.pval.signal.bigwig
@@ -102,15 +94,7 @@ shortLabel Lung_H3K4me3
 longLabel Lung_H3K4me3
 parent Overlay_Promoter_H3K4me3
 type bigWig
-color 200,219,222
-
-track E066_Liver_H3K4me3
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me3/E066-H3K4me3.imputed.pval.signal.bigwig
-shortLabel Liver_H3K4me3
-longLabel Liver_H3K4me3
-parent Overlay_Promoter_H3K4me3
-type bigWig
-color 226,219,190
+color 83,83,83
 
 track E097_Ovary_H3K4me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me3/E097-H3K4me3.imputed.pval.signal.bigwig
@@ -118,7 +102,7 @@ shortLabel Ovary_H3K4me3
 longLabel Ovary_H3K4me3
 parent Overlay_Promoter_H3K4me3
 type bigWig
-color 234,208,213
+color 0,71,75
 
 ################################################
 track Overlay_Accessibl_Dhs
@@ -139,7 +123,7 @@ shortLabel Colon_Mucosa_DHS
 longLabel Colon_Mucosa_DHS
 parent Overlay_Accessibl_Dhs
 type bigWig
-color 155,195,211
+color 56,56,255
 
 track E119_Mammary_Epithelial_Dhs
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E119-DNase.imputed.pval.signal.bigwig
@@ -147,7 +131,7 @@ shortLabel Breast_DHS
 longLabel Breast_DHS
 parent Overlay_Accessibl_Dhs
 type bigWig
-color 195,211,155
+color 92,50,69
 
 track E127_Epidermal_Dhs
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E127-DNase.imputed.pval.signal.bigwig
@@ -155,7 +139,7 @@ shortLabel Skin_DHS
 longLabel Skin_DHS
 parent Overlay_Accessibl_Dhs
 type bigWig
-color 250,225,149
+color 102,102,102
 
 track E096_Lung_Epithelial_Dhs
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E096-DNase.imputed.pval.signal.bigwig
@@ -163,15 +147,7 @@ shortLabel Lung_DHS
 longLabel Lung_DHS
 parent Overlay_Accessibl_Dhs
 type bigWig
-color 200,219,222
-
-track E066_Liver_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E066-DNase.imputed.pval.signal.bigwig
-shortLabel Liver_Primary_DHS
-longLabel Liver_DHS
-parent Overlay_Accessibl_Dhs
-type bigWig
-color 226,219,190
+color 83,83,83
 
 track E097_Ovary_Dhs
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E097-DNase.imputed.pval.signal.bigwig
@@ -179,7 +155,7 @@ shortLabel Ovary_DHS
 longLabel Ovary_DHS
 parent Overlay_Accessibl_Dhs
 type bigWig
-color 234,208,213
+color 0,71,75
 
 ################################################
 track Overlay_DNAMethyl
@@ -200,7 +176,7 @@ shortLabel Colon_Mucosa_Methyl
 longLabel Colon_Mucosa_Methyl
 parent Overlay_DNAMethyl
 type bigWig
-color 155,195,211
+color 56,56,255
 
 track E119_Mammary_Epithelial_DNAMethyl
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNAMethylSBS/E119-DNAMethylSBS.imputed.FractionalMethylation.signal.bigwig	
@@ -208,7 +184,7 @@ shortLabel Breast__Methyl
 longLabel Breast__Methyl
 parent Overlay_DNAMethyl
 type bigWig
-color 195,211,155
+color 92,50,69
 
 track E127_Epidermal_DNAMethyl
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNAMethylSBS/E127-DNAMethylSBS.imputed.FractionalMethylation.signal.bigwig	
@@ -216,7 +192,7 @@ shortLabel Skin_Methyl
 longLabel Skin_Methyl
 parent Overlay_DNAMethyl
 type bigWig
-color 250,225,149
+color 102,102,102
 
 track E096_Lung_Epithelial_DNAMethyl
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNAMethylSBS/E096-DNAMethylSBS.imputed.FractionalMethylation.signal.bigwig	
@@ -224,15 +200,7 @@ shortLabel Lung_Methyl
 longLabel Lung_Methyl
 parent Overlay_DNAMethyl
 type bigWig
-color 200,219,222
-
-track E066_Liver_DNAMethyl
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNAMethylSBS/E066-DNAMethylSBS.imputed.FractionalMethylation.signal.bigwig	
-shortLabel Liver_Methyl
-longLabel Liver_Methyl
-parent Overlay_DNAMethyl
-type bigWig
-color 226,219,190
+color 83,83,83
 
 track E097_Ovary_DNAMethyl
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNAMethylSBS/E097-DNAMethylSBS.imputed.FractionalMethylation.signal.bigwig	
@@ -240,7 +208,7 @@ shortLabel Ovary_Methyl
 longLabel Ovary_Methyl
 parent Overlay_DNAMethyl
 type bigWig
-color 234,208,213
+color 0,71,75
 
 ################################################
 
@@ -262,7 +230,7 @@ shortLabel HCT116_H3K27ac
 longLabel HCT116_H3K27ac
 parent Overlay_C_Enhancer_H3K27ac
 type bigWig
-color 155,195,211
+color 56,56,255
 
 track HeLa_H3K27ac
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeBroadHistoneHelas3H3k27acStdAln_2Reps.norm5.rawsignal.bw
@@ -270,7 +238,7 @@ shortLabel HeLa_H3K27ac
 longLabel HeLa_H3K27ac
 parent Overlay_C_Enhancer_H3K27ac
 type bigWig
-color 206,187,210
+color 96,53,79
 
 track MCF7_H3K27ac
 bigDataUrl http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeSydhHistone/wgEncodeSydhHistoneMcf7H3k27acUcdSig.bigWig
@@ -278,7 +246,7 @@ shortLabel MCF7_H3K27ac
 longLabel MCF7_H3K27ac
 parent Overlay_C_Enhancer_H3K27ac
 type bigWig
-color 195,211,155
+color 92,50,69
 
 
 ################################################
@@ -301,7 +269,7 @@ shortLabel HeLa_H3K4me3
 longLabel HeLa_H3K4me3
 parent Overlay_C_Promoter_H3K4me3
 type bigWig
-color 206,187,210
+color 96,53,79
 
 track HCT116_H3K4me3
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeUwHistoneHct116H3k4me3StdAln_2Reps.norm5.rawsignal.bw
@@ -309,7 +277,7 @@ shortLabel HCT116_H3K4me3
 longLabel HCT116_H3K4me3
 parent Overlay_C_Promoter_H3K4me3
 type bigWig
-color 155,195,211
+color 56,56,255
 
 track CACO2_H3K4me3
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeUwHistoneCaco2H3k4me3StdAln_2Reps.norm5.rawsignal.bw
@@ -317,7 +285,7 @@ shortLabel CACO2_H3K4me3
 longLabel CACO2_H3K4me3
 parent Overlay_C_Promoter_H3K4me3
 type bigWig
-color 155,195,211
+color 56,56,255
 
 track MCF7_H3K4me3
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeUwHistoneMcf7H3k4me3StdAln_1Reps.norm5.rawsignal.bw
@@ -325,7 +293,7 @@ shortLabel MCF7_H3K4me3
 longLabel MCF7_H3K4me3
 parent Overlay_C_Promoter_H3K4me3
 type bigWig
-color 195,211,155
+color 92,50,69
 
 ################################################
 track Overlay_C_Accessibl_Dhs
@@ -346,7 +314,7 @@ shortLabel CACO2_Dhs
 longLabel CACO2_Dhs
 parent Overlay_C_Accessibl_Dhs
 type bigWig
-color 155,195,211
+color 56,56,255
 
 track HCT116_Dhs
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeUwDnaseHct116Aln_2Reps.norm5.rawsignal.bw
@@ -354,7 +322,7 @@ shortLabel HCT116_Dhs
 longLabel HCT116_Dhs
 parent Overlay_C_Accessibl_Dhs
 type bigWig
-color 155,195,211
+color 56,56,255
 
 track MCF7_Dhs
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeOpenChromDnaseMcf7Aln_2Reps.norm5.rawsignal.bw
@@ -362,7 +330,7 @@ shortLabel MCF7_Dhs
 longLabel MCF7_Dhs
 parent Overlay_C_Accessibl_Dhs
 type bigWig
-color 195,211,155
+color 92,50,69
 
 track Melano_Dhs
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeOpenChromDnaseMelanoAln_2Reps.norm5.rawsignal.bw
@@ -370,7 +338,7 @@ shortLabel Melano_Dhs
 longLabel Melano_Dhs
 parent Overlay_C_Accessibl_Dhs
 type bigWig
-color 250,225,149
+color 102,102,102
 
 track Hela_Dhs
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeOpenChromDnaseHelas3Aln_3Reps.norm5.rawsignal.bw
@@ -378,7 +346,7 @@ shortLabel Hela_Dhs
 longLabel Hela_Dhs
 parent Overlay_C_Accessibl_Dhs
 type bigWig
-color 206,187,210
+color 96,53,79
 
 track Lncap_Dhs
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeOpenChromDnaseLncapAln_3Reps.norm5.rawsignal.bw
@@ -387,5 +355,7 @@ longLabel Lncap_Dhs
 parent Overlay_C_Accessibl_Dhs
 type bigWig
 color 83,75,61
+
+
 
 
