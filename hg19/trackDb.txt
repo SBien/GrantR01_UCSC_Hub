@@ -350,10 +350,11 @@ color 186,216,216
 
 track Lncap_Dhs
 bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/signal/jan2011/bigwig/wgEncodeOpenChromDnaseLncapAln_3Reps.norm5.rawsignal.bw
-shortLabel Hela_Dhs
+shortLabel Lncap_Dhs
 longLabel Lncap_Dhs
 parent Overlay_C_Accessibl_Dhs
 type bigWig
-color 83,75,61
+color 135,206,235
+
 
 
